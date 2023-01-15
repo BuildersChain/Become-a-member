@@ -14,7 +14,7 @@
 
 6. Make the organization visible on your profile by going to .
 
-### NOW YOU ARE PART OF COLLAB-COMMUNITY 🎉
+### NOW YOU ARE PART OF BuildersChain-COMMUNITY 🎉
 
 <a href = "https://discord.gg/3w8Xee46"><img src = "https://img.icons8.com/color/344/discord-logo.png" style ="height:4%; width:4%;"></a>
 <a href = ""><img src = "https://img.icons8.com/fluency/344/twitter.png" style ="height:4%; width:4%;"></a>
